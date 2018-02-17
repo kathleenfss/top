@@ -1,0 +1,92 @@
+body {
+	text-align: center;
+}
+
+#principal{
+	
+	width: 750px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: left;
+	font-family: Courier New;
+	font-variant: small-caps;
+	font-weight: bold;
+}
+
+
+#menu_global {
+	border: solid 2px black;
+	width: 750px;
+	text-align: center;
+	
+}
+
+#conteudo_especifico_home_page {
+	border: solid 2px black;
+	width: 750px;
+	background-color:white;
+	text-align:center;
+	
+	
+}
+
+
+#rodape {
+	border: solid 2px black;
+	width: 750px;
+	height: 40px;
+	float: left;
+	background-color:white;
+	font-family: Courier New;
+	font-variant: small-caps;
+	font-weight: bold;
+	 font-style: italic;
+}
+
+#menu_local {
+	border: solid 2px black;
+	width: 200px;
+	height: 400px;
+	float: left;
+	background-color:white;
+	font-family: Courier New;
+	font-variant: small-caps;
+	font-weight: bold;
+
+}
+
+#conteudo_especifico_demais_paginas {
+	border: solid 2px black;
+	width: 540px;
+	height: 400px;
+	float: right;	
+	background-color:white;
+	font-family: Courier New;
+	font-variant: small-caps;
+	font-weight: bold;
+
+}
+
+#banner{
+border: solid 2px black;
+	width: 750px;
+	height:250;
+	background-color:orange;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
